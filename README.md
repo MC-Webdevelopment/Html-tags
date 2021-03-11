@@ -1,4 +1,4 @@
-# Re:Coded Sana'a Bootcamp - Assignment 1 (HTML)
+# Re:Coded Sana'a Bootcamp - Lab 1 (HTML)
 
 ## Overview
 This first Assignment will be over basic HTML tags
