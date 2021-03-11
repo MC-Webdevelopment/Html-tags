@@ -45,7 +45,7 @@ This first Assignment will be over basic HTML tags
  9. iframe 
   - re-coded.com website 
 
-<strong>Deadline: 7, July, 2020</strong>
+
 
 ### Submission
 After forking this repository and finishing <strong>ALL</strong> the requirements, please do a pull request so it can be review by any of the instructors.
